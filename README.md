@@ -1,6 +1,6 @@
 # he0
 
-(he test repo)
+(forked for tests)
 
 he utility module 
 
