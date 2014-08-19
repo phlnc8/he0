@@ -2,7 +2,7 @@
 
 (forked for tests)
 
-he utility module 
+Lua utility module 
 
 Copyright (c) 2009-2012  Phil LeBlanc 
 
