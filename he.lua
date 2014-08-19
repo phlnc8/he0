@@ -1,4 +1,4 @@
---[[    he utility module,  v082
+--[[    he - a Lua utility module,  v082
 
     Coppyright (c) 2009-2013  Ph. Leblanc 
 
